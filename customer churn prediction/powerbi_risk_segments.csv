@@ -1,0 +1,4 @@
+risk_tier,customers,actual_churn,monthly_revenue
+High,635,0.474,31194.58
+Low,532,0.051,22336.94
+Medium,433,0.178,19693.8

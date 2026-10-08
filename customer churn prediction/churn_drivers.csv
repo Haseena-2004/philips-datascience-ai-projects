@@ -1,0 +1,16 @@
+,importance
+contract,0.1339
+tenure_months,0.0949
+monthly_charges,0.015
+feature_adoption,0.0089
+support_tickets_90d,0.0081
+friction_score,0.0061
+engagement_score,0.004
+payment_method,0.003
+discount_used,0.002
+charge_per_login,0.0006
+plan,0.0006
+late_payments_12m,0.0005
+logins_30d,0.0003
+is_new_customer,-0.0001
+tickets_per_month_tenure,-0.0004
