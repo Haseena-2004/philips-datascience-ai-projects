@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+matplotlib>=3.7
+streamlit>=1.30
+anthropic>=0.40      # optional: only needed for LLM mode in the AI assistant
+pytest>=7.0
