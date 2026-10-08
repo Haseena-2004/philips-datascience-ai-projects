@@ -1,0 +1,13 @@
+,importance
+age,0.0969
+physical_activity,0.0207
+smoker,0.0149
+glucose,0.0142
+cholesterol,0.0138
+utilisation_score,0.0125
+bmi,0.0115
+chronic_conditions,0.0103
+systolic_bp,0.0075
+prior_admissions,0.0037
+gender,-0.0
+metabolic_flag,-0.0001

@@ -1,0 +1,6 @@
+kpi,value
+Patients scored,2000.0
+Actual high-risk rate,0.196
+Predicted High-segment share,0.364
+ROC-AUC,0.81
+Recall,0.739
